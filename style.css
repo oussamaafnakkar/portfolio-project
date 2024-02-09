@@ -1,0 +1,93 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+section {
+    margin: 20px;
+}
+
+#intro {
+    text-align: center;
+}
+
+img {
+    max-width: 100%;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+nav a {
+    margin: 0 20px;
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
+
+.deployed-app-btn {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+#feature-section {
+    display: flex;
+    justify-content: space-around;
+}
+
+.feature {
+    text-align: center;
+    max-width: 300px;
+}
+
+#about-section {
+    text-align: center;
+}
+
+.team-members ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.team-members li {
+    margin: 0 20px;
+}
+
+.github-repo-link {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    background-color: #333;
+    color: white;
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+#video-section {
+    text-align: center;
+}
+
+iframe {
+    width: 80%;
+    max-width: 800px;
+    height: 400px;
+}
+
