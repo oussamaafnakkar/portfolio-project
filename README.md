@@ -26,7 +26,7 @@ Face increasing difficulty and new challenges as you progress through the game. 
 Activate sneaky mode for a surprise gaming experience. In this mode, the game introduces unexpected elements to keep players on their toes.
 
 ## About
-This project was inspired by [classic old games]. It is developed as a Portfolio Project for Holberton School.
+This project was inspired by classic old games. It is developed as a Portfolio Project for Holberton School.
 
 ## Project Links
 - [Play Sneaky Fun](https://oussamaafnakkar.github.io/MVP-Snakey-Fun/snf.html)
