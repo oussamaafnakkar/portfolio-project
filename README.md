@@ -14,15 +14,15 @@ Sneaky Fun is a classic snake game with a twist! Dive into the challenge of coll
 ## Features
 
 ### 1. Sneaky Power-ups
-![Sneaky Power-ups](i1.png)
+![Sneaky Power-ups](images/i1.png)
 Collect special power-ups for unexpected twists in the game. These power-ups can change the dynamics of the snake, providing new challenges and rewards.
 
 ### 2. Endless Challenges
-![Endless Challenges](i2.png)
+![Endless Challenges](images/i2.png)
 Face increasing difficulty and new challenges as you progress through the game. Keep your reflexes sharp and strategize to overcome obstacles.
 
 ### 3. teleport Mode
-![Sneaky Mode](i3.png)
+![Sneaky Mode](images/i3.png)
 Activate sneaky mode for a surprise gaming experience. In this mode, the game introduces unexpected elements to keep players on their toes.
 
 ## About
