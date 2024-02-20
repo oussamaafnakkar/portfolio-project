@@ -53,6 +53,13 @@ nav a {
     max-width: 300px;
 }
 
+/* Additional styling for images in the feature section */
+#feature-section .feature img {
+    width: 100%; /* Make images fill their container */
+    max-width: 100%; /* Limit the maximum width for all screens */
+    height: auto; /* Maintain aspect ratio */
+}
+
 #about-section {
     text-align: center;
 }
@@ -91,3 +98,9 @@ iframe {
     height: 400px;
 }
 
+/* Media query for screens with a maximum width of 400 pixels (adjust as needed) */
+@media only screen and (max-width: 400px) {
+    #feature-section .feature img {
+        max-width: 100%; /* Limit the maximum width for smaller screens */
+    }
+}
